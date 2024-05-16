@@ -8,7 +8,7 @@ In this repository, you will find a variety of Python scripts designed to automa
 
 ## Available Scripts
 
-1. **Copy and Edit Word Files:** This script copies a base Word file and creates copies with specific edits in its content.
+1. [**Copy and Edit Word Files**](./word_files/): This script copies a base Word file and creates copies with specific edits in its content.
 
 ## How to Use
 
