@@ -26,7 +26,7 @@ def main():
         return
 
     # Criando os arquivos Week22_2024 até Week30_2024 baseados no arquivo Week21_2024 e editando o conteúdo interno
-    for week_number in range(22, 31):
+    for week_number in range(22, 24):
         new_file_name = f"Week{week_number}_2024.docx"
         new_file_path = os.path.join(base_dest_path, new_file_name)
         shutil.copyfile(base_file, new_file_path)
