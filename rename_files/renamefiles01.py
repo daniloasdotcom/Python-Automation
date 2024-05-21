@@ -1,3 +1,15 @@
+"""Simple is better than complex. This code snippet lists all files in a specified folder and renames PDF files by
+removing the first 13 characters from their names.
+
+Explicit is better than implicit. The purpose of the code is evident: it aims to clean up PDF file names by removing
+the initial characters, likely for organization or formatting reasons.
+
+Readability counts.
+The code is concise and easy to understand. Each step is clearly commented, explaining its purpose and functionality.
+
+Now is better than never.
+"""
+
 import os
 
 # Define the path to the folder containing the files
